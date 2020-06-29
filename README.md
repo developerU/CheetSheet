@@ -1,7 +1,7 @@
 # CheetSheet
 Hack The Box用に作成中。
 ## 手順
-- [調査](#Investigation)
+- 調査
   - [Nmap](#nmap)
   - [Gobuster](#gobuster)
 
